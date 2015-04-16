@@ -1,3 +1,27 @@
+
+# phpstorm project files
 .idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# mac index files
+.DS_Store
+
+# composer vendor git dir
+vendor/**.git
+vendor/.git
+
 .git
 rsync_qibao.sh
+
+config/*.conf.php
+config/*.conf
