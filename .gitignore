@@ -23,5 +23,5 @@ vendor/.git
 .git
 rsync_qibao.sh
 
-config/*.conf.php
-config/*.conf
+config/db.php
+config/local.conf.php
