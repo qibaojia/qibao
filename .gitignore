@@ -25,3 +25,5 @@ rsync_qibao.sh
 
 config/db.php
 config/local.conf.php
+
+# /static

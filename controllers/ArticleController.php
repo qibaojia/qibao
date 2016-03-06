@@ -2,7 +2,9 @@
 
 namespace app\controllers;
 
-class ArticleController extends \yii\web\Controller
+use yii\web\Controller;
+
+class ArticleController extends Controller
 {
     public function actionIndex()
     {
